@@ -1,0 +1,4 @@
+outs:
+- md5: 0c84f03ff3ee235d756110b311da10e2
+  size: 997
+  path: logistic_reg.pkl

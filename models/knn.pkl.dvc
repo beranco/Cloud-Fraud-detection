@@ -1,0 +1,4 @@
+outs:
+- md5: 2f764caa7261127c4860a2096860119a
+  size: 101568
+  path: knn.pkl

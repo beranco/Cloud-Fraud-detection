@@ -1,0 +1,4 @@
+outs:
+- md5: 5c18bcfe4e5548b8391a4c173227ec2c
+  size: 513
+  path: artifacts.json
